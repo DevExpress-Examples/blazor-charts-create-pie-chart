@@ -4,7 +4,8 @@
             Diameter="1"
             InnerDiameter="0.5"
             LabelOverlap="PieChartLabelOverlap.Shift" 
-            Width="920" Height="440">
+            Width="920" 
+            Height="440">
     <DxPieChartSeries T="SessionInfo"
                       TArgument="string"
                       TValue="double"
@@ -23,7 +24,7 @@
                    Orientation="Orientation.Vertical" />
     <DxChartTooltip Enabled="true"
                     Position="RelativePosition.Outside">
-        <div style="margin: 0.75rem">
+        <div class="m-3">
             <div class="font-weight-bold">@context.Point.Argument</div>
             <div>Sessions: @($"{context.Point.Value}")</div>
         </div>
