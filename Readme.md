@@ -25,7 +25,7 @@ This example demonstrates how to create a DevExpress Blazor PieChart, bind it to
 * [How to implement a Theme Switcher in Blazor applications](https://github.com/DevExpress-Examples/blazor-theme-switcher)
 * [Charts for Blazor - How to filter the chart based on DataGrid selection](https://github.com/DevExpress-Examples/blazor-Charts-how-to-filter-the-chart-based-on-DataGrid-selection)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=blazor-charts-create-pie-chart&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=blazor-charts-create-pie-chart&~~~was_helpful=no)
 
